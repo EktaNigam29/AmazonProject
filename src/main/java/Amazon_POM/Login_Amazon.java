@@ -43,7 +43,7 @@ public class Login_Amazon extends DataDrivenTesting  {
 		}
 		public void un()
 		{
-		//username.sendKeys("ektamurarka81@gmail.com" +Keys.ENTER);
+		//username.sendKeys("ektamurarka@gmail.com" +Keys.ENTER);//step3
 		//username.sendKeys("9560044390" +Keys.ENTER);//step4-passed
 			username.sendKeys(un1);
 			//username.sendKeys(Keys.ENTER);

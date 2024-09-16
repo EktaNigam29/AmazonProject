@@ -3,10 +3,14 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="testCase_POM.TestCase12"/>
       <class name="testCase_POM.TestCase4"/>
       <class name="testCase_POM.TestCase3"/>
       <class name="testCase_POM.TestCase2"/>
+      <class name="testCase_POM.Testcase15"/>
       <class name="testCase_POM.TestCase1"/>
+      <class name="testCase_POM.Testcase13"/>
+      <class name="testCase_POM.Testcase11"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
